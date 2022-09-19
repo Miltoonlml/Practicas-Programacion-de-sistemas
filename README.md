@@ -1,3 +1,3 @@
 # Practicas-Programacion-de-sistemas
-Repositorio para la clase 
+Repositorio para la clase.
 #alv xd
